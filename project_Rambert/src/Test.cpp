@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-namespace GameEngine {
+namespace Rambert {
 
     void Print()
     {
