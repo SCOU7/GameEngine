@@ -15,6 +15,7 @@
 	   "-I${workspaceFolder}/project_SandBox/vendor",
 	   "-L${workspaceFolder}/project_Rambert/src",
 	   "${workspaceFolder}/project_SandBox/src/*.cpp",
+	   "${workspaceFolder}/project_Rambert/src/Rambert/Application.cpp",
 	   "${workspaceFolder}/project_Rambert/src/libmylib.dylib",
 	   "-o",
 	   "${workspaceFolder}/bin/Release-x64/Sandbox/app",
