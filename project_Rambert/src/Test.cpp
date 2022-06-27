@@ -6,7 +6,7 @@ namespace Rambert {
 
     void Print()
     {
-        printf("Welcome to Acorn!\n");
+        printf("Welcome to Rambert!\n");
     }
 }
 
