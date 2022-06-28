@@ -14,7 +14,9 @@ public:
    };
 };
 
-Rambert::Application* Rambert::CreateApplication()
+int main(void)
 {
-   return new Sandbox();
+   Sandbox* sandbox = new Sandbox();
+   sandbox->Run();
+   delete sandbox;
 }
