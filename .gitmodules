@@ -1,3 +1,0 @@
-[submodule "project_Rambert/vendor/spdlog"]
-	path = project_Rambert/vendor/spdlog
-	url = https://github.com/gabime/spdlog
